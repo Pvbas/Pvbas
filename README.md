@@ -3,9 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando em **Desenvolvimento Web**
 
-- 🌱 Estou aprendendo **Html, Css, Javascript e PHP**
-
-- 💬 Fale comigo sobre: ​​**Html, Css, Javascript e PHP**
+- 🌱 Sou estudante de**Html, Css, Javascript e Python**
 
 <h3 alinhar="esquerda">Conecte-se comigo:</h3>
 <p align="left">
