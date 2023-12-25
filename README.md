@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando em **Desenvolvimento Web**
 
-- 🌱 Sou estudante de**Html, Css, Javascript e Python**
+- 🌱 Sou estudante de** Html, Css, Javascript e Python**
 
 <h3 alinhar="esquerda">Conecte-se comigo:</h3>
 <p align="left">
